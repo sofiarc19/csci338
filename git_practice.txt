@@ -1,1 +1,2 @@
 Hello this wa a practice txt file for lab2 and lab3 kinda. 
+This is a random sentence in hopes of creating a pull request.
